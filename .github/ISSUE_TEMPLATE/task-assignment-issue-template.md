@@ -30,5 +30,5 @@ A clear and concise description of any alternative solutions or features you've 
 **Additional context**
 Add any other context or screenshots about the task assignment here.
 
-| :point_up:    | Remember to assign the task to someone! |
-|---------------|:------------------------|
+**Assignee**
+Remember to tag who should be assigned this task.
