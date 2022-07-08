@@ -1,6 +1,6 @@
 # Virtual-Fish
 
-Play the game here: https://osu-edu-games.github.io/Virtual-Fish/
+[Click here to play the game!](https://osu-edu-games.github.io/Virtual-Fish/)
 
 
 
