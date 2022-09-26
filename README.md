@@ -1,4 +1,4 @@
-# Virtual-Fish
+# Sim-Fish
 
 [Click here to play the game!](https://osu-edu-games.github.io/Virtual-Fish/) (note: still in active development)
 
